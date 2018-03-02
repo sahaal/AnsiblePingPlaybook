@@ -1,1 +1,1 @@
-AnsiblePingPlaybook
+ansible-playbook ping module
